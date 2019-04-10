@@ -45,4 +45,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
  
       1，对输入框的数据进行双向绑定，且触发输入事件，该事件会将输入数据与后台请求到的json数据进行比对，并且将匹配成功的数据传递给子组件
       子组件会对收到的数据进行渲染呈现，若匹配不到则显示未匹配到数据
-  ![动态效果]()
+      
+  ![动态效果](https://github.com/XiaoQueXinggg/travel.com/blob/master/src/assets/img/search.gif)
